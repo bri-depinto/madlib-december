@@ -10,7 +10,7 @@ body {
 }
 
 header, footer {
-    background-color: #3498db;
+    background-color: #0c6d0e;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -25,4 +25,8 @@ footer {
 #madLibOutput {
     padding: 20px;
     text-align: center;
+}
+.christmaswords{
+    color: rgb(194, 14, 14);
+    font-family: 'Candy Cane (Unregistered)', sans-serif;
 }
