@@ -10,7 +10,7 @@ body {
 }
 
 header, footer {
-    background-color: #0c6d0e;
+    background-color: #3a9b3c;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -27,6 +27,18 @@ footer {
     text-align: center;
 }
 .christmaswords{
-    color: rgb(194, 14, 14);
-    font-family: 'Candy Cane (Unregistered)', sans-serif;
+    color: red;
+    font-family: 'Clicker Script', cursive;
+}
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(1, 66, 1);
+}
+.tryred{
+    font-family: 'Luckiest Guy', cursive;
+    color: red;
+}
+.trygreen{
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(1, 66, 1);
 }
