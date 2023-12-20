@@ -17,7 +17,6 @@ header, footer {
 }
 
 footer {
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
@@ -49,4 +48,7 @@ h1{
 }
 .imagee{
 
+}
+.rein {
+    margin-bottom:50px;
 }
