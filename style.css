@@ -24,6 +24,10 @@ footer {
 #madLibOutput {
     padding: 20px;
     text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+
 }
 .christmaswords{
     color: red;
@@ -46,9 +50,7 @@ h1{
     font-weight: 600;
     letter-spacing: 1px;
 }
-.imagee{
 
-}
 .rein {
     margin-bottom:50px;
 }
